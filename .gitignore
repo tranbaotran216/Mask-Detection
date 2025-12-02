@@ -1,0 +1,6 @@
+*.pth
+*.ckpt
+runs/
+data/
+datasets/
+* docx

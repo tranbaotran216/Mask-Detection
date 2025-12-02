@@ -1,0 +1,8 @@
+path: ../lab5/dataset
+
+train: images/train
+val: images/val
+
+names:
+  0: with_mask
+  1: without_mask
